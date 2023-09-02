@@ -1,0 +1,8 @@
+fastapi
+nltk
+sentencepiece
+torch
+transformers
+uvicorn
+vncorenlp
+pytorch-lightning
